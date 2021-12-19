@@ -7,7 +7,7 @@ using GradeBook.Enums;
 
 namespace GradeBook
 {
-    public class Student
+	public class Student
     {
         public string Name { get; set; }
         public StudentType Type { get; set; }
